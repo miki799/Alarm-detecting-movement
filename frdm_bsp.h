@@ -1,16 +1,4 @@
-/******************************************************************************
- * This file is a part of the SM2 Tutorial (C).                               *
- *                                                                            *
- * Adding extra defs makes life easy :)                                       *
- ******************************************************************************/
 
-/**
- * @file frdm_bsp.h
- * @author Koryciak
- * @date Oct 2019
- * @brief File containing info about evaluation board used in project.
- * @ver 0.1
- */
 
 #ifndef FRDM_BSP_H
 #define FRDM_BSP_H

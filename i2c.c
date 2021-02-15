@@ -1,14 +1,3 @@
-/******************************************************************************
- * This file is a part of the Sysytem Microprocessor Tutorial (C).            *
- ******************************************************************************/
-
-/**
- * @file i2c.c
- * @author Koryciak
- * @date Sep 2020
- * @brief File containing definitions for I2C.
- * @ver 0.3
- */
 
 #include "i2c.h"
 

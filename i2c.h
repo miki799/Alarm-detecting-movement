@@ -1,14 +1,3 @@
-/******************************************************************************
- * This file is a part of the SM2 Tutorial (C).                               *                                                 *
- ******************************************************************************/
-
-/**
- * @file i2c.h
- * @author Koryciak
- * @date Sep 2020
- * @brief File containing enums, structures and declarations for I2C.
- * @ver 0.3
- */
 
 #ifndef I2C_H
 #define I2C_H

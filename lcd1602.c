@@ -1,14 +1,3 @@
-/******************************************************************************
- * This file is a part of the Sysytem Microprocessor Tutorial (C).            *
- ******************************************************************************/
-
-/**
- * @file lcd1602.c
- * @author Koryciak
- * @date Sep 2020
- * @brief File containing definitions for LCD 2x16.
- * @ver 0.3
- */
 
 #include "lcd1602.h"
 
